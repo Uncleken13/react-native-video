@@ -28,7 +28,7 @@
         "url": "git@github.com:react-native-community/react-native-video.git"
     },
     "devDependencies": {
-        "@react-native-community/eslint-config": "0.0.7",
+        "@react-native-community/eslint-config": "3.2.0",
         "babel-eslint": "10.0.3",
         "eslint": "6.8.0",
         "react": "^16.12.0",
